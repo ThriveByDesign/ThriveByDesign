@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anonsa Vaughn
+- 👋 Hello, I’m Designer X
 
 <h1> Creativity + Innovation + Collaboration = A Luminous Future </h1>
 
@@ -6,7 +6,7 @@
  
 <img src= "https://images.unsplash.com/photo-1615493749953-742903db7e9d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=perry-merrity-ii-_VO2fXVpQLY-unsplash.jpg&w=640">
   
-<p> My name is Anonsa and as an aspiring UX/UI designer || engineer. I plan to join the league of creators. Instead of just thoughts and doodles, I want my ideas and designs to become an integral part of creating solutions. </p>
+<p> My name is Anonsa and as a User experience designer || engineer. I plan to join the league of creators. Instead of just thoughts and doodles, I want my ideas and designs to become an integral part of creating solutions. </p>
 
 This is the beginning. This is my design. To watch my creative journey unfold: Follow me on insta! @thrive.bydesign
 
